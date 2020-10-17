@@ -1,4 +1,3 @@
-README
 # A closer look at New York and Toronto AirBnB data
 This project analyzes AirBnB listing, calendar and review data for New York and Toronto (retrieved from [InsideAirBnB](http://insideairbnb.com/get-the-data.html) on September 10th 2020). It compares prices, reviews, availability for the two cities and selected neighbourhoods and includes a word analysis of reviews and listing names. 
 
