@@ -60,22 +60,8 @@ The above files were all retrieved from [InsideAirBnB](http://insideairbnb.com/g
 
 ## <a id="results"/> Key Results 
 
-**When is the best time to visit New York and Toronto?**
+Find an overview of key findings on [Medium](https://medium.com/@maren.zoller/great-places-to-stay-a-closer-look-at-new-york-and-toronto-airbnb-data-71d8d134a6cf).
 
-By popularity (proportion of booked listings and average listing price), Christmas time and the summer months are the best time to visit both cities. If one wants to optimize for lower prices and higher proportion of AirBnBs to choose from, autumn and winter (except December), are the best time to visit the two cities.
+## <a id="acknowledgements"/> Licenses and acknowledgements
 
-**What budget do I need to plan for accommodation in both cities?**
-
-AirBnB listings in both cities cover a wide range of listing prices, including many high-priced outliers. My evaluation only featured available listings, and I evaluated median instead of mean listing prices. A night in a New York AirBnb has a 10 USD minimum, 112 USD median, and 13,798 USD maximum price. Therefore, the budget needed for a week (6 nights) is 60 USD minimum, 672 USD when assuming the median price, and maximum 82,788 USD. A night in a Toronto AirBnb has a 13 USD minimum, 100 USD median, and 13,00 USD maximum price. Therefore, the budget needed for a week (6 nights) is 78 USD minimum, 600 USD when assuming the median price, and maximum 78,000 USD.
-
-**In which neighborhoods should I stay?**
-
-Here, I reviewed all New York neighbourhood groups and the top 5 Toronto neighbourhoods with the highest AirBnB density. In New York most AirBnBs are in Manhattan, which has the best average location reviews, but also highest average prices and worst overall reviews. Staten Island has the best average reviews, second best location and a good price level. Brooklyn has the second most listings, second best review score and reasonable pricing level. Looking at the combination of reviews, price, location, and availability of Airbnb and room type options, Brooklyn and Staten Island seem to be the most interesting to what I am looking for. In Toronto, Waterfront Communities has the best reviews but also the matching prices. Combining all reviewed features, Annex can convince with a (comparably) reasonable price level, good reviews and okay location score average, while offering a wide range of room types to choose from.
-
-**Do different neighbourhoods have a different vibe?**
-
-In both cities, and across all evaluated neigbourhoods (Manhattan, Brooklyn, Staten Island, Waterfront Communities, Annex, and Niagara), basic description of room and apartment features dominate the listing names, e.g. "room", "bedroom", "apartment", "apt", "studio", "condo", or "suite". Adjectives that are used most common are "private", "cozy", and "spacious". New York listing names mention neighborhood names and listings being "sunny", Toronto listing names mention location ("downtown"), and transportation options ("parking", "subway"), and the attribute "home".
-
-Manhattan listing names are focused on locations ("east", "west", "central" "park", "manhattan", "village"), Brooklyn listing names focus on being "sunny" and "beautiful", and mentions "loft" as another listing descriptor. Staten Island listings mention the "ferry", "private" is the most common listing descriptor. Waterfront listings mention "condo"s "downtown", the "cn" "tower", the "view", the "lake", "parking", "luxury" and are "modern". Annex listings are also mentioning "luxury", the "heart" of "Toronto" and locations like "yorkville". Niagara listings mention "parking", the "view", and the "lake" - and also "king" and "queen" (beds?).
-
-Across both cities and neighbourhoods, reviewers praise "great", "place"s to "stay". Brooklyn and Manhattan review texts have similar most used words, with Brooklyn reviews using "clean" and "comfortable" more often. Again, Staten Island's unique selling point seems to be the "ferry". Waterfront listing reviews are "amazing" and have a "view". Annex review texts focus more on everything being "comfortable", "easy" and "close". Niagara reviews mention "amazing" and "easy", but not "comfortable" or a "view".
+For the data, I must give credit to both AirBnB and InsideAirBnB. The data is available under a Creative Commons CC0 1.0 Universal (CC0 1.0) "Public Domain Dedication" license, more info can be found [here](http://insideairbnb.com/get-the-data.html).
